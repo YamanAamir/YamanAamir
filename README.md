@@ -22,8 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yaman-aamir-853947284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaman-aamir-853947284" height="30" width="40" /></a>
-<a href="https://fb.com/yamanaamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yamanaamir" height="30" width="40" /></a>
+<a href="https://fb.com/yamanaamir23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yamanaamir23" height="30" width="40" /></a>
 <a href="https://instagram.com/yamanaamir23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yamanaamir23" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yamanaamir23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yamanaamir23" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
